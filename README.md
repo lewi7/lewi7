@@ -12,7 +12,7 @@
 - **Soccer**: I love both playing and watching soccer, and I'm a big Manchester United fan.
 - **Working Out**: I enjoy staying active and consistently improving my strength and fitness.
 - **Movies & TV Shows**: Always looking for something good to watch.
-- **LeetCode**: I like practicing data structures, algorithms, and problem-solving.
+- **LeetCode**: I like practicing data structures, algorithms, and problem-solving.(👀)
 - **Building Projects**: I enjoy turning ideas into complete software systems.
 
 ### What I've Been Doing Recently
